@@ -1,1 +1,1 @@
-# a sple and useful React.js dummy text generator applicajsbdj..
+# A simple and useful React.js dummy text generator application.
